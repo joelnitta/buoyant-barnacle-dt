@@ -1,6 +1,7 @@
 # buoyant-barnacle-dt
     
-This is the lesson repository for buoyant-barnacle, modified to demonstrate usage
+This is the repository for the [Carpentries demo lesson](https://carpentries.github.io/sandpaper-docs/introduction.html) `buoyant-barnacle`, 
+modified to demonstrate usage
 of the [dovetail R package](https://github.com/joelnitta/dovetail) for translating
 Carpentries lessons.
 
