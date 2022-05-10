@@ -49,3 +49,13 @@ translate_md_for_locale("ja")
 # Build translated lesson ----
 sandpaper::build_lesson("locale/ja/")
 ```
+
+If you run the above code without adding translations to the PO files, the 
+"translated" lesson will appear exactly like the original lesson (in English).
+
+I have provided some PO files with a few strings translated into Japanese
+to demonstrate how this works in the [ja branch](https://github.com/joelnitta/buoyant-barnacle/tree/ja).
+
+If you check out the `ja` branch and run `translate_md_for_locale("ja")` followed
+by `sandpaper::build_lesson("locale/ja/")`, it will build the (partially) translated
+lesson in `locale/ja/site`.
