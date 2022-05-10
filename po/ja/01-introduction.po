@@ -8,26 +8,29 @@ msgid ""
 "teaching: 10\n"
 "exercises: 2"
 msgstr ""
+"title: \"RMarkdown の使い方について\"\n"
+"teaching: 10\n"
+"exercises: 2"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 4 (unordered list)
 msgid "How do you write a lesson using R Markdown and `{sandpaper}`?"
-msgstr ""
+msgstr "R Markdown と`{sandpaper}` によるレッスンの書き方は何でしょうか？"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 9 (unordered list)
 msgid "Explain how to use markdown with the new lesson template"
-msgstr ""
+msgstr "新しいレッスン型によるマークダウンの使い方を説明しましょう"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 9 (unordered list)
 msgid "Demonstrate how to include pieces of code, figures, and nested challenge blocks"
-msgstr ""
+msgstr "コードの塊、図表、それからチャッレンジブロックの書き方を説明しましょう"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 12 (header)
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 13 (paragraph)
 msgid "This is a lesson created via The Carpentries Workbench. It is written in [Pandoc-flavored Markdown][pandoc] for static files and [R Markdown][r-markdown] for dynamic files that can render code into output. Please refer to the [Introduction to The Carpentries Workbench][carpentries-workbench] for full documentation."
-msgstr ""
+msgstr "このサイトはThe Carpentries Workbench によって作られたレッスンです。コードを使わないテキストファイルはパンドックのマークダウンによって出来ていて、コードによってアウトプットを出力するファイルはRマークダウンによって出来ています。詳しい使い方については[Introduction to The Carpentries Workbench][carpentries-workbench]を参照してください。"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 14 (paragraph)
 msgid "What you need to know is that there are three sections required for a valid Carpentries lesson template:"

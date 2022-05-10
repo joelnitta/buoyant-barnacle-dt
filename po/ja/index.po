@@ -8,7 +8,7 @@ msgstr ""
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed549142b25:block 2 (paragraph)
 msgid "This is a new lesson built with [The Carpentries Workbench][workbench]."
-msgstr ""
+msgstr "これはThe Carpentries Workbench によって作られた新しいレッスンです"
 
 #: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed549142b25:block 2 (paragraph)
 #, fuzzy
