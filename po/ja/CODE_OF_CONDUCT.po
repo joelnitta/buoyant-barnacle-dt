@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed591536c1:block 1 (header)
+msgid "title: \"Contributor Code of Conduct\""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed591536c1:block 2 (paragraph)
+msgid "As contributors and maintainers of this project, we pledge to follow the [Carpentry Code of Conduct][coc]."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed591536c1:block 3 (paragraph)
+msgid "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by following our [reporting guidelines][coc-reporting]."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed591536c1:block 3 (paragraph)
+#, fuzzy
+msgid "[coc-reporting]: https://docs.carpentries.org/topic_folders/policies/incident-reporting.html"
+msgstr "[coc-reporting]: https://docs.carpentries.org/topic_folders/policies/incident-reporting.html"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed591536c1:block 3 (paragraph)
+#, fuzzy
+msgid "[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+msgstr "[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"

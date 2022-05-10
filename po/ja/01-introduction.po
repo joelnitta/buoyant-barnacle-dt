@@ -1,0 +1,122 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 1 (header)
+msgid ""
+"title: \"Using RMarkdown\"\n"
+"teaching: 10\n"
+"exercises: 2"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 4 (unordered list)
+msgid "How do you write a lesson using R Markdown and `{sandpaper}`?"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 9 (unordered list)
+msgid "Explain how to use markdown with the new lesson template"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 9 (unordered list)
+msgid "Demonstrate how to include pieces of code, figures, and nested challenge blocks"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 12 (header)
+msgid "Introduction"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 13 (paragraph)
+msgid "This is a lesson created via The Carpentries Workbench. It is written in [Pandoc-flavored Markdown][pandoc] for static files and [R Markdown][r-markdown] for dynamic files that can render code into output. Please refer to the [Introduction to The Carpentries Workbench][carpentries-workbench] for full documentation."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 14 (paragraph)
+msgid "What you need to know is that there are three sections required for a valid Carpentries lesson template:"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 15 (ordered list)
+msgid "`questions` are displayed at the beginning of the episode to prime the learner for the content."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 15 (ordered list)
+msgid "`objectives` are the learning objectives for an episode displayed with the questions."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 15 (ordered list)
+msgid "`keypoints` are displayed at the end of the episode to reinforce the objectives."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 18 (paragraph)
+msgid "Inline instructor notes can help inform instructors of timing challenges associated with the lessons. They appear in the \"Instructor View\""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 23 (header)
+msgid "Challenge 1: Can you do it?"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 24 (paragraph)
+msgid "What is the output of this command?"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 28 (header)
+msgid "Output"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 32 (header)
+msgid "Challenge 2: how do you nest solutions within challenge blocks?"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 35 (paragraph)
+msgid "You can add a line with at least three colons and a `solution` tag."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 40 (header)
+msgid "Figures"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 41 (paragraph)
+msgid "You can also include figures generated from R Markdown:"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 43 (paragraph)
+msgid "Or you can use standard markdown for static figures with the following syntax:"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 44 (paragraph)
+msgid "`![optional caption that appears below the figure](figure url){alt='alt text for accessibility purposes'}`"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 45 (paragraph)
+msgid "![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 46 (header)
+msgid "Math"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 47 (paragraph)
+msgid "One of our episodes contains $\\LaTeX$ equations when describing how to create dynamic reports with {knitr}, so we now use mathjax to describe this:"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 48 (paragraph)
+msgid "`$\\alpha = \\dfrac{1}{(1 - \\beta)^2}$` becomes: $\\alpha = \\dfrac{1}{(1 - \\beta)^2}$"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 49 (paragraph)
+msgid "Cool, right?"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 52 (unordered list)
+msgid "Use `.md` files for episodes when you want static content"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 52 (unordered list)
+msgid "Use `.Rmd` files for episodes when you need to generate output"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 52 (unordered list)
+msgid "Run `sandpaper::check_lesson()` to identify any issues with your lesson"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed518c89df1:block 52 (unordered list)
+msgid "Run `sandpaper::build_lesson()` to preview your lesson locally"
+msgstr ""

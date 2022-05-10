@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 1 (header)
+msgid "title: Setup"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 2 (paragraph)
+msgid "Setup instructions live in this document. Please specify the tools and the data sets the Learner needs to have installed."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 3 (header)
+msgid "Data Sets"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 4 (paragraph)
+msgid "Download the [data zip file](data/data.zip) and unzip it to your Desktop"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 5 (header)
+msgid "Software Setup"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 8 (header)
+msgid "Details"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 9 (paragraph)
+msgid "Setup for different systems can be presented in dropdown menus via a `solution` tag. They will join to this discussion block, so you can give a general overview of the software used in this lesson here and fill out the individual operating systems (and potentially add more, e.g. online setup) in the solutions blocks."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 14 (header)
+msgid "Windows"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 15 (paragraph)
+msgid "Use PuTTY"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 20 (header)
+msgid "MacOS"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 21 (paragraph)
+msgid "Use Terminal.app"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 26 (header)
+msgid "Linux"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56f3c6c7c:block 27 (paragraph)
+msgid "Use Terminal"
+msgstr ""

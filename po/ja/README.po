@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56348b1fc:block 1 (header)
+msgid "buoyant-barnacle"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56348b1fc:block 2 (paragraph)
+msgid "This is the lesson repository for buoyant-barnacle, modified to demonstrate usage of the [dovetail R package](https://github.com/joelnitta/dovetail) for translating Carpentries lessons."
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56348b1fc:block 3 (paragraph)
+msgid "`dovetail` is not yet on CRAN, and needs to be installed from GitHub:"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file16ed56348b1fc:block 5 (paragraph)
+msgid "The below code demonstrates how you can generate the files needed for translation:"
+msgstr ""
