@@ -1,4 +1,4 @@
-# buoyant-barnacle
+# buoyant-barnacle-dt
     
 This is the lesson repository for buoyant-barnacle, modified to demonstrate usage
 of the [dovetail R package](https://github.com/joelnitta/dovetail) for translating
@@ -54,7 +54,7 @@ If you run the above code without adding translations to the PO files, the
 "translated" lesson will appear exactly like the original lesson (in English).
 
 I have provided some PO files with a few strings translated into Japanese
-to demonstrate how this works in the [ja branch](https://github.com/joelnitta/buoyant-barnacle/tree/ja).
+to demonstrate how this works in the [ja branch](https://github.com/joelnitta/buoyant-barnacle-dt/tree/ja).
 
 If you check out the `ja` branch and run `translate_md_for_locale("ja")` followed
 by `sandpaper::build_lesson("locale/ja/")`, it will build the (partially) translated
