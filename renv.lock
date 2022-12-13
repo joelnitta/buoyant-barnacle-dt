@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Repositories": [
       {
         "Name": "carpentries",
@@ -37,7 +37,7 @@
       "Package": "evaluate",
       "Version": "0.14",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "ec8ca05cffcc70569eaaad8469d2a3a7",
       "Requirements": []
     },
@@ -102,7 +102,7 @@
       "Package": "knitr",
       "Version": "1.37",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "a4ec675eb332a33fe7b7fe26f70e1f98",
       "Requirements": [
         "evaluate",
@@ -124,7 +124,7 @@
       "Package": "renv",
       "Version": "0.14.0",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "30e5eba91b67f7f4d75d31de14bbfbdc",
       "Requirements": []
     },
@@ -140,7 +140,7 @@
       "Package": "rmarkdown",
       "Version": "2.11",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "320017b52d05a943981272b295750388",
       "Requirements": [
         "evaluate",
@@ -178,7 +178,7 @@
       "Package": "tinytex",
       "Version": "0.35",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "1d7220fe46159fb9f5c99a44354a2bff",
       "Requirements": [
         "xfun"
@@ -188,7 +188,7 @@
       "Package": "xfun",
       "Version": "0.29",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "e2e5fb1a74fbb68b27d6efc5372635dc",
       "Requirements": []
     },
