@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.3.0",
+    "Version": "4.1.2",
     "Repositories": [
       {
         "Name": "carpentries",
@@ -21,10 +21,7 @@
       "Package": "base64enc",
       "Version": "0.1-3",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "R"
-      ],
+      "Repository": "CRAN",
       "Hash": "543776ae6848fde2f48ff3816d0628bc"
     },
     "digest": {
@@ -32,10 +29,6 @@
       "Version": "0.6.29",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "utils"
-      ],
       "Hash": "cf6b206a045a684728c3267ef7596190"
     },
     "evaluate": {
@@ -43,10 +36,6 @@
       "Version": "0.14",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "methods"
-      ],
       "Hash": "ec8ca05cffcc70569eaaad8469d2a3a7"
     },
     "fastmap": {
@@ -60,11 +49,7 @@
       "Package": "glue",
       "Version": "1.6.2",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "R",
-        "methods"
-      ],
+      "Repository": "CRAN",
       "Hash": "4f2596dfb05dac67b9dc558e5c6fba2e"
     },
     "highr": {
@@ -72,10 +57,6 @@
       "Version": "0.9",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "xfun"
-      ],
       "Hash": "8eb36c8125038e648e5d111c0d7b2ed4"
     },
     "htmltools": {
@@ -83,25 +64,13 @@
       "Version": "0.5.2",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "base64enc",
-        "digest",
-        "fastmap",
-        "grDevices",
-        "rlang",
-        "utils"
-      ],
       "Hash": "526c484233f42522278ab06fb185cb26"
     },
     "jquerylib": {
       "Package": "jquerylib",
       "Version": "0.1.4",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "htmltools"
-      ],
+      "Repository": "CRAN",
       "Hash": "5aab57a3bd297eee1c1d862735972182"
     },
     "jsonlite": {
@@ -109,9 +78,6 @@
       "Version": "1.8.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "methods"
-      ],
       "Hash": "d07e729b27b372429d42d24d503613a0"
     },
     "knitr": {
@@ -119,26 +85,13 @@
       "Version": "1.37",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "evaluate",
-        "highr",
-        "methods",
-        "stringr",
-        "tools",
-        "xfun",
-        "yaml"
-      ],
       "Hash": "a4ec675eb332a33fe7b7fe26f70e1f98"
     },
     "magrittr": {
       "Package": "magrittr",
       "Version": "2.0.3",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "R"
-      ],
+      "Repository": "CRAN",
       "Hash": "7ce2733a9826b3aeb1775d56fd305472"
     },
     "renv": {
@@ -146,9 +99,6 @@
       "Version": "0.14.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "utils"
-      ],
       "Hash": "30e5eba91b67f7f4d75d31de14bbfbdc"
     },
     "rlang": {
@@ -156,10 +106,6 @@
       "Version": "1.0.2",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "utils"
-      ],
       "Hash": "04884d9a75d778aca22c7154b8333ec9"
     },
     "rmarkdown": {
@@ -167,21 +113,6 @@
       "Version": "2.11",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "evaluate",
-        "htmltools",
-        "jquerylib",
-        "jsonlite",
-        "knitr",
-        "methods",
-        "stringr",
-        "tinytex",
-        "tools",
-        "utils",
-        "xfun",
-        "yaml"
-      ],
       "Hash": "320017b52d05a943981272b295750388"
     },
     "stringi": {
@@ -189,12 +120,6 @@
       "Version": "1.7.6",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "stats",
-        "tools",
-        "utils"
-      ],
       "Hash": "bba431031d30789535745a9627ac9271"
     },
     "stringr": {
@@ -202,12 +127,6 @@
       "Version": "1.4.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "glue",
-        "magrittr",
-        "stringi"
-      ],
       "Hash": "0759e6b6c0957edb1311028a49a35e76"
     },
     "tinytex": {
@@ -215,9 +134,6 @@
       "Version": "0.35",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "xfun"
-      ],
       "Hash": "1d7220fe46159fb9f5c99a44354a2bff"
     },
     "xfun": {
@@ -225,10 +141,6 @@
       "Version": "0.29",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Requirements": [
-        "stats",
-        "tools"
-      ],
       "Hash": "e2e5fb1a74fbb68b27d6efc5372635dc"
     },
     "yaml": {
